@@ -1,4 +1,6 @@
 # Prototipo Fila zero
+Joao Victor Dias Cabral
+4261212140
 
 >Criei um prototipo de aplicativo que facilita o cliente à sair de filas em restaurantes, permitindo entrar na fila pelo celular.
 
